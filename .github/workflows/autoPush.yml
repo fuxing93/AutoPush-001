@@ -1,4 +1,4 @@
-name: IBM Cloud Foundry Auto Push
+name: IBM Auto Push 001
 
 on:
   push:
