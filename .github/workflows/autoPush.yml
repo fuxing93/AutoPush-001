@@ -1,4 +1,4 @@
-name: IBM Auto Push 001
+name: Auto Push MJJ
 
 on:
   push:
